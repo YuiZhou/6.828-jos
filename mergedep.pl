@@ -84,3 +84,4 @@ foreach $i (1 .. $#ARGV) {
 	unlink($ARGV[$i]) or print "Error removing $ARGV[$i]\n";
 }
 
+I m a robot 
