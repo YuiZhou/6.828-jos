@@ -58,3 +58,4 @@ git remote rm "$REPO" 2> /dev/null
 git remote add "$REPO" "$GIT_URL" || exit 1
 echo "Done! Use 'make handin' to submit your lab code."
 echo
+I m a robot 
